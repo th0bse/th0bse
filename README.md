@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### Hi there
 
-- Everything JVM (Java, Kotlin, Groovy) (and C# at work lol)
+- Everything JVM (Java, Kotlin, Groovy)
 - Currently learning Rust and building my own compiler (hoping to port it to Rust in the near future)
 - Interested in Rust, compilers, self-hosting things, automation and smart-home
 - I like Neovim, JetBrains stuff, Arch Linux and coffee
